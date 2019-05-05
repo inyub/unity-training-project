@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2ff46f43e05491eddc85039e1177fedc:ed8653924e5ae9d9faf7e716573a54e9:df5a3b517988215dee59073bb1929a6f$
+#
+:format=40300
+:texture=SPR_Main_UI.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=enabled
+
+Bar_BG;985;1852;36;24; 0.5;0.5; 9;9;0;0
+Bar_Fill;964;1596;54;42; 0.5;0.5; 20;20;0;0
+BG_Background;1;714;750;1333; 0.5;0.5; 0;0;0;0
+BG_ContentBox;753;1807;114;114; 0.5;0.5; 29;28;29;28
+BG_ContentBox_Highlight;869;1807;114;114; 0.5;0.5; 45;45;46;45
+BG_Footer;985;1701;35;149; 0.5;0.5; 9;9;0;0
+BG_Header;819;1506;30;109; 0.5;0.4954128440366973; 0;0;0;0
+BG_Position_Current;753;1923;125;124; 0.5;0.5; 0;0;0;0
+BG_Position_Next;753;1698;107;107; 0.5;0.5; 0;0;0;0
+BG_Position_Past;880;1923;124;124; 0.5;0.5; 0;0;0;0
+Deco_Divider_Horizontal;831;1690;28;6; 0.5;0.5; 7;7;0;0
+Deco_Divider_Vert;1006;2019;6;28; 0.5;0.5; 0;0;7;7
+Icon_Arrows_Left;753;1550;64;65; 0.5;0.5; 0;0;0;0
+Icon_Arrows_Right;753;1617;76;79; 0.5;0.5; 0;0;0;0
+Icon_Eye;900;1510;45;36; 0.5;0.5; 0;0;0;0
+Icon_Lock;985;1878;38;43; 0.5;0.5; 0;0;0;0
+Icon_Trophy_False;851;1503;47;43; 0.5;0.5; 0;0;0;0
+Icon_Trophy_True;753;1491;61;57; 0.5;0.5; 0;0;0;0
+Primitiv_BoxRoundBottom;964;1640;59;59; 0.5;0.5; 15;15;15;15
+Primitiv_Circle;862;1701;104;104; 0.5;0.5; 0;0;0;0
+Primitiv_Round;862;1599;100;100; 0.5;0.5; 0;0;0;0
+Radio_Empty;953;1546;48;48; 0.5;0.5; 0;0;0;0
+Radio_Fill_1;851;1548;49;49; 0.5;0.5; 0;0;0;0
+Radio_Fill_2;902;1548;49;49; 0.5;0.5; 0;0;0;0

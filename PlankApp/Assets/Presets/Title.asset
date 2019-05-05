@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2968cbae51a104f5da161ee6235f1d2d, type: 3}
+  m_Name: Title
+  m_EditorClassIdentifier: 
+  styleName: Title
+  textMeshProAsset: {fileID: 11400000, guid: 6c0254449465b48fe914dcae07271b7f, type: 2}
+  textMeshProStyle: {fileID: 2100000, guid: 0c185c9152053445eb50db7f7a5d38df, type: 2}
+  textFontStyle: 0
+  fontSize: 80
+  enableAutoFontSize: 0
+  textAlignment: 514
+  charSpacing: 0
+  wordSpacing: 0
+  lineSpacing: 0
+  parSpacing: 0
+  enableRaycastTarget: 0

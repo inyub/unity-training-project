@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2968cbae51a104f5da161ee6235f1d2d, type: 3}
+  m_Name: ShablagooChallenge
+  m_EditorClassIdentifier: 
+  styleName: Challenge
+  textMeshProAsset: {fileID: 11400000, guid: 9a0e78ff256f1ef4893c1e523aad9b15, type: 2}
+  textMeshProStyle: {fileID: 2100000, guid: 0f7791f4f7e33044183bf25c0a5933e8, type: 2}
+  textFontStyle: 0
+  fontSize: 100
+  enableAutoFontSize: 0
+  textAlignment: 514
+  charSpacing: 0
+  wordSpacing: 0
+  lineSpacing: 0
+  parSpacing: 0
+  enableRaycastTarget: 0
